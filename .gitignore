@@ -5,7 +5,6 @@ __pycache__/
 
 # Directories
 data/
-outputs/
 __init__.py
 
 # File Extensions
